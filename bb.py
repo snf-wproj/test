@@ -1,3 +1,4 @@
 if __name__ == '__main__':
-	print('hello {}'.__name__)
+
+	print('hello to you')
 
